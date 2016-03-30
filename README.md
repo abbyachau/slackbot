@@ -5,7 +5,7 @@ display a random lyric, or prompt the user to type 'grammar tips', which would t
 
 The Pinker bot responds to the following inputs:
 
-- MYHUBOT grammar tips (This returns a random grammar tip, as opposed more specific grammar advice)
+- MYHUBOT grammar tips (This returns a random grammar tip, as opposed to more specific grammar advice)
 - MYHUBOT whom
 - MYHUBOT modifier
 - MYHUBOT conjunction

@@ -36,3 +36,5 @@ The first bot, grammarTips, does not quite work. The bot was supposed to take us
 The Pinker bot is returning two random grammar rules instead of one.
 
 Users would not know which key words to input to trigger the Pinker bot. For example, they won't know that the key word 'split' represents split infinitives.
+
+Source: http://www.theguardian.com/books/2014/aug/15/steven-pinker-10-grammar-rules-break
